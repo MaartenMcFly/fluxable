@@ -1,1 +1,1 @@
-X fluxable
+X FluxAble
